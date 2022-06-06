@@ -4,9 +4,9 @@ This tutorial focuses on a **very** important threat for empirical research: the
 
 **The repository is organised as follows:**
 
-* `tutorial_power.html` is a self-contained document with all the materials for the workshop.
+* `tutorial_power.html` is a self-contained document with annotated R codes for the workshop.
 * `slides_power.html` are the slides used in the workshop.
-* The folder `scripts_tutorial` contains all the scripts to be run during the workshop.
+* The folder `scripts_tutorial` contains all the R scripts to be run during the workshop.
 * The folder `data` contains the results of Monte-Carlo simulations.
 
 This workshop heavily relies on the cited studies and works I have carried out with my fantastic co-author [Vincent Bagilet](https://vincentbagilet.github.io/causal_inflation/). Should you have any questions or find errors, do not hesitate to reach me. 
