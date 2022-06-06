@@ -225,7 +225,7 @@ knitr::include_graphics("https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif")
 
 <br>
 <br>
-* GitHub link:
+* GitHub link: https://github.com/lzabrocki/workshop_power
 
 * **Download the folder!**
 
