@@ -7,14 +7,12 @@ date: <span style="color:white">`r Sys.Date()`</span>
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
-    lib_dir: libs
     nature:
       titleSlideClass: [top, left]
       ratio: '16:9'
       highlightStyle: solarized-light
       highlightLines: true
       countIncrementalSlides: false
-      exclude: true
 ---
 
 <style>
